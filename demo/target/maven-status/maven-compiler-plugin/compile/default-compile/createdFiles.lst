@@ -1,0 +1,7 @@
+com/example/demo/repository/UserRepository.class
+com/example/demo/service/UserConsumer.class
+com/example/demo/controller/UserController.class
+com/example/demo/model/User.class
+com/example/demo/config/KafkaConfig.class
+com/example/demo/CadastroApplication.class
+com/example/demo/service/UserProducer.class
