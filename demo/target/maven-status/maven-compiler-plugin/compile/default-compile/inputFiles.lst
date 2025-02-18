@@ -1,5 +1,6 @@
 /home/gabriel/Desktop/cadastro_usuario/demo/src/main/java/com/example/demo/CadastroApplication.java
 /home/gabriel/Desktop/cadastro_usuario/demo/src/main/java/com/example/demo/config/KafkaConfig.java
+/home/gabriel/Desktop/cadastro_usuario/demo/src/main/java/com/example/demo/config/WebConfig.java
 /home/gabriel/Desktop/cadastro_usuario/demo/src/main/java/com/example/demo/controller/UserController.java
 /home/gabriel/Desktop/cadastro_usuario/demo/src/main/java/com/example/demo/model/User.java
 /home/gabriel/Desktop/cadastro_usuario/demo/src/main/java/com/example/demo/repository/UserRepository.java
